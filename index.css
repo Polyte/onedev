@@ -1,0 +1,1846 @@
+.home {
+  	width: 100%;
+  	height: 6090px;
+  	position: relative;
+  	background-color: #fff;
+  	text-align: left;
+  	font-size: 16px;
+  	color: #000;
+  	font-family: Raleway;
+}
+.footer {
+  	position: absolute;
+  	height: 14.29%;
+  	width: 100%;
+  	top: 85.71%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	text-align: center;
+}
+.clip-path-group {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+}
+.group-icon {
+  	position: absolute;
+  	height: 101.15%;
+  	width: 100.69%;
+  	top: -0.57%;
+  	right: -0.35%;
+  	bottom: -0.57%;
+  	left: -0.35%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	object-fit: cover;
+}
+.brandmark-parent {
+  	position: absolute;
+  	height: 66.09%;
+  	width: 77.36%;
+  	top: 17.82%;
+  	right: 11.32%;
+  	bottom: 16.09%;
+  	left: 11.32%;
+}
+.brandmark-icon {
+  	position: absolute;
+  	height: 61.74%;
+  	width: 63.73%;
+  	top: 0%;
+  	right: 34.47%;
+  	bottom: 38.26%;
+  	left: 1.8%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.contact {
+  	position: absolute;
+  	top: 407px;
+  	left: 3px;
+  	line-height: 28px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 89px;
+  	height: 25px;
+}
+.news {
+  	position: absolute;
+  	top: 407px;
+  	left: 124px;
+  	line-height: 28px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 89px;
+  	height: 25px;
+}
+.events {
+  	position: absolute;
+  	top: 407px;
+  	left: 245px;
+  	line-height: 28px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 89px;
+  	height: 25px;
+}
+.newsletter {
+  	position: absolute;
+  	top: 407px;
+  	left: 366px;
+  	line-height: 28px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 115px;
+  	height: 25px;
+}
+.terms-of-use {
+  	position: absolute;
+  	top: 407px;
+  	left: 513px;
+  	line-height: 28px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 127px;
+  	height: 25px;
+}
+.policies {
+  	position: absolute;
+  	top: 407px;
+  	left: 672px;
+  	line-height: 28px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 127px;
+  	height: 25px;
+}
+.your-email {
+  	position: absolute;
+  	top: 551px;
+  	left: 736px;
+  	line-height: 28px;
+  	font-weight: 300;
+  	text-align: left;
+  	display: flex;
+  	align-items: center;
+  	width: 127px;
+  	height: 12px;
+}
+.holanathi-pty-ltd {
+  	position: absolute;
+  	top: 405px;
+  	left: 851px;
+  	font-size: 20px;
+  	line-height: 28px;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 248px;
+  	height: 25px;
+}
+.subscribe {
+  	position: absolute;
+  	top: 550px;
+  	left: 996px;
+  	font-size: 20px;
+  	line-height: 28px;
+  	font-weight: 500;
+  	text-align: right;
+  	display: flex;
+  	align-items: center;
+  	width: 100px;
+  	height: 25px;
+}
+.group-child {
+  	position: absolute;
+  	top: 407px;
+  	left: 809px;
+  	border-right: 3px solid #000;
+  	box-sizing: border-box;
+  	width: 3px;
+  	height: 27px;
+}
+.home-group-icon {
+  	position: absolute;
+  	height: 5.25%;
+  	width: 2.71%;
+  	top: 56.35%;
+  	right: 9.65%;
+  	bottom: 38.4%;
+  	left: 87.64%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.group-icon2 {
+  	position: absolute;
+  	height: 5.25%;
+  	width: 2.71%;
+  	top: 56.35%;
+  	right: 1.7%;
+  	bottom: 38.4%;
+  	left: 95.58%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.group-icon3 {
+  	position: absolute;
+  	height: 5.25%;
+  	width: 2.71%;
+  	top: 56.35%;
+  	right: 5.68%;
+  	bottom: 38.4%;
+  	left: 91.61%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.vector-icon {
+  	position: absolute;
+  	width: 2.69%;
+  	top: calc(50% + 36.5px);
+  	right: 13.64%;
+  	left: 83.66%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	height: 30px;
+}
+.get-the-latest {
+  	position: absolute;
+  	top: 556px;
+  	left: 182px;
+  	line-height: 28px;
+  	font-weight: 300;
+  	white-space: pre-wrap;
+  	text-align: left;
+  	display: flex;
+  	align-items: center;
+  	width: 460px;
+  	height: 16px;
+}
+.group-item {
+  	position: absolute;
+  	top: 570px;
+  	left: 730px;
+  	border-top: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 240px;
+  	height: 1px;
+}
+.footer-icon {
+  	position: absolute;
+  	top: 393px;
+  	left: 0px;
+  	max-height: 100%;
+  	width: 1114px;
+}
+.section-06 {
+  	position: absolute;
+  	height: 28.56%;
+  	width: 100.07%;
+  	top: 57.14%;
+  	right: -0.07%;
+  	bottom: 14.3%;
+  	left: 0%;
+  	font-size: 80px;
+  	color: #faf9f6;
+  	font-family: 'Roboto Serif';
+}
+.sec06-img-icon {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	object-fit: cover;
+}
+.you-can-get {
+  	position: absolute;
+  	top: 1008px;
+  	left: 163px;
+  	letter-spacing: 0.1px;
+  	line-height: 80px;
+  	font-weight: 100;
+  	display: inline-block;
+  	width: 358px;
+  	height: 243px;
+}
+.button-01 {
+  	position: absolute;
+  	height: 4.31%;
+  	width: 15.96%;
+  	top: 78.02%;
+  	right: 72.73%;
+  	bottom: 17.66%;
+  	left: 11.31%;
+  	overflow: hidden;
+  	text-align: center;
+  	font-size: 24px;
+  	color: #000;
+}
+.home-clip-path-group {
+  	position: absolute;
+  	height: 86.67%;
+  	width: 95.65%;
+  	top: 6.67%;
+  	right: 2.17%;
+  	bottom: 6.67%;
+  	left: 2.17%;
+}
+.group-icon4 {
+  	position: absolute;
+  	height: 115.38%;
+  	width: 104.55%;
+  	top: -7.69%;
+  	right: -2.27%;
+  	bottom: -7.69%;
+  	left: -2.27%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	object-fit: cover;
+}
+.see-how {
+  	position: absolute;
+  	top: 29.33%;
+  	left: 29.13%;
+  	line-height: 32px;
+  	font-weight: 300;
+}
+.group-parent {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 10080px;
+  	height: 6090px;
+  	font-size: 18px;
+}
+.s05-bg-parent {
+  	position: absolute;
+  	top: 3480px;
+  	left: 134px;
+  	width: 4193px;
+  	height: 870px;
+  	font-size: 24px;
+  	font-family: 'Roboto Serif';
+}
+.s05-bg {
+  	position: absolute;
+  	top: 0px;
+  	left: 1307px;
+  	background-color: #faf9f6;
+  	width: 2886px;
+  	height: 870px;
+}
+.sec05-ill-icon {
+  	position: absolute;
+  	height: 57.51%;
+  	width: 10.45%;
+  	top: 8.96%;
+  	right: 5.24%;
+  	bottom: 33.53%;
+  	left: 84.31%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.buttoon {
+  	position: absolute;
+  	top: 626px;
+  	left: 3750px;
+  	width: 230px;
+  	height: 75px;
+  	overflow: hidden;
+  	text-align: center;
+}
+.group-icon5 {
+  	position: absolute;
+  	height: 115.38%;
+  	width: 104.55%;
+  	top: -7.69%;
+  	right: -2.27%;
+  	bottom: -7.69%;
+  	left: -2.27%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	object-fit: cover;
+  	display: none;
+}
+.learn-more {
+  	position: absolute;
+  	top: 29.33%;
+  	left: 22.17%;
+  	line-height: 32px;
+  	font-weight: 300;
+}
+.holanathi-03-icon {
+  	position: absolute;
+  	height: 2.1%;
+  	width: 3.43%;
+  	top: 75.4%;
+  	right: 27.79%;
+  	bottom: 22.49%;
+  	left: 68.78%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.our-community-engagement {
+  	position: absolute;
+  	top: 419px;
+  	left: 2884px;
+  	font-size: 20px;
+  	line-height: 28px;
+  	font-weight: 300;
+  	font-family: Raleway;
+  	display: inline-block;
+  	width: 445px;
+  	height: 168px;
+}
+.from-the-ground {
+  	position: absolute;
+  	top: 63px;
+  	left: 2884px;
+  	font-size: 80px;
+  	letter-spacing: 0.1px;
+  	line-height: 80px;
+  	font-weight: 100;
+  	display: inline-block;
+  	width: 335px;
+  	height: 240px;
+}
+.sec05-img {
+  	position: absolute;
+  	height: 66.66%;
+  	width: 20.56%;
+  	top: 0%;
+  	right: 39.75%;
+  	bottom: 33.34%;
+  	left: 39.69%;
+}
+.group-icon6 {
+  	position: absolute;
+  	height: 110.12%;
+  	width: 110.98%;
+  	top: -4.6%;
+  	right: -5.64%;
+  	bottom: -5.52%;
+  	left: -5.34%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	object-fit: cover;
+}
+.sec05-vid-icon {
+  	position: absolute;
+  	height: 91.95%;
+  	width: 29.1%;
+  	top: 4.02%;
+  	right: 70.9%;
+  	bottom: 4.02%;
+  	left: 0%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.s04-bg-parent {
+  	position: absolute;
+  	top: 2610px;
+  	left: 0px;
+  	width: 10080px;
+  	height: 870px;
+  	text-align: center;
+  	font-size: 36px;
+  	font-family: 'Roboto Serif';
+}
+.s04-bg {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #faf9f6;
+  	width: 10080px;
+  	height: 870px;
+}
+.line-icon {
+  	position: absolute;
+  	top: 493px;
+  	left: 1208px;
+  	width: 8743px;
+  	height: 5px;
+}
+.holanathi-02-icon {
+  	position: absolute;
+  	top: 452px;
+  	left: 9763px;
+  	width: 186.3px;
+  	height: 23.6px;
+}
+.fuel-the-mind {
+  	position: absolute;
+  	top: 413px;
+  	left: 9087px;
+  	width: 420px;
+  	height: 420px;
+}
+.fuel-the-mind-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #faf9f6;
+  	width: 420px;
+  	height: 420px;
+}
+.home-fuel-the-mind {
+  	position: absolute;
+  	top: 299px;
+  	left: 56px;
+  	letter-spacing: 0.1px;
+  	line-height: 46px;
+  	display: inline-block;
+  	width: 308px;
+  	height: 92px;
+}
+.home-vector-icon {
+  	position: absolute;
+  	height: 57.14%;
+  	width: 57.14%;
+  	top: 8.1%;
+  	right: 21.43%;
+  	bottom: 34.76%;
+  	left: 21.43%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.group-icon7 {
+  	position: absolute;
+  	height: 43.29%;
+  	width: 39.29%;
+  	top: 14.76%;
+  	right: 30.48%;
+  	bottom: 41.95%;
+  	left: 30.24%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.earning {
+  	position: absolute;
+  	top: 413px;
+  	left: 8657px;
+  	width: 420px;
+  	height: 420px;
+}
+.earning-potential {
+  	position: absolute;
+  	top: 289px;
+  	left: 90px;
+  	letter-spacing: 0.1px;
+  	line-height: 46px;
+  	display: inline-block;
+  	width: 240px;
+  	height: 92px;
+}
+.group-icon8 {
+  	position: absolute;
+  	height: 45.45%;
+  	width: 58.81%;
+  	top: 14.76%;
+  	right: 23.1%;
+  	bottom: 39.79%;
+  	left: 18.1%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.a-stronger {
+  	position: absolute;
+  	top: 413px;
+  	left: 8227px;
+  	width: 420px;
+  	height: 420px;
+}
+.a-stronger-workforce {
+  	position: absolute;
+  	top: 289px;
+  	left: 56px;
+  	letter-spacing: 0.1px;
+  	line-height: 46px;
+  	display: inline-block;
+  	width: 308px;
+  	height: 92px;
+}
+.group {
+  	position: absolute;
+  	height: 52.55%;
+  	width: 36.67%;
+  	top: 11.67%;
+  	right: 34.05%;
+  	bottom: 35.79%;
+  	left: 29.29%;
+}
+.vector-icon4 {
+  	position: absolute;
+  	height: 65.02%;
+  	width: 100%;
+  	top: 23.95%;
+  	right: 0%;
+  	bottom: 11.03%;
+  	left: 0%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.vector-icon5 {
+  	position: absolute;
+  	height: 36.88%;
+  	width: 8.64%;
+  	top: 39.19%;
+  	right: 10.88%;
+  	bottom: 23.93%;
+  	left: 80.48%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.vector-icon6 {
+  	position: absolute;
+  	height: 2.54%;
+  	width: 3.64%;
+  	top: 34.25%;
+  	right: 42.76%;
+  	bottom: 63.21%;
+  	left: 53.6%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.vector-icon7 {
+  	position: absolute;
+  	height: 5.21%;
+  	width: 28.96%;
+  	top: 29.19%;
+  	right: 33.52%;
+  	bottom: 65.6%;
+  	left: 37.52%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.vector-icon8 {
+  	position: absolute;
+  	height: 23.15%;
+  	width: 32.92%;
+  	top: 0%;
+  	right: 30.85%;
+  	bottom: 76.85%;
+  	left: 36.23%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.home-group {
+  	position: absolute;
+  	height: 39.19%;
+  	width: 64.42%;
+  	top: 60.82%;
+  	right: 10.55%;
+  	bottom: -0.01%;
+  	left: 25.03%;
+}
+.vector-icon9 {
+  	position: absolute;
+  	height: 70.98%;
+  	width: 59.17%;
+  	top: 0%;
+  	right: 20.85%;
+  	bottom: 29.02%;
+  	left: 19.98%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.vector-icon10 {
+  	position: absolute;
+  	height: 75.72%;
+  	width: 100%;
+  	top: 24.33%;
+  	right: 0%;
+  	bottom: -0.05%;
+  	left: 0%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.vector-icon11 {
+  	position: absolute;
+  	height: 2.31%;
+  	width: 83.77%;
+  	top: 58.27%;
+  	right: 8.13%;
+  	bottom: 39.42%;
+  	left: 8.1%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.vector-icon12 {
+  	position: absolute;
+  	height: 19.19%;
+  	width: 5.75%;
+  	top: 49.87%;
+  	right: 75.79%;
+  	bottom: 30.93%;
+  	left: 18.47%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.vector-icon13 {
+  	position: absolute;
+  	height: 19.19%;
+  	width: 5.75%;
+  	top: 49.87%;
+  	right: 19.25%;
+  	bottom: 30.93%;
+  	left: 75.01%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.layer-10-icon {
+  	position: absolute;
+  	height: 16.76%;
+  	width: 34.81%;
+  	top: 52.43%;
+  	right: 31%;
+  	bottom: 30.81%;
+  	left: 34.2%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.thriving-starts {
+  	position: absolute;
+  	top: 24px;
+  	left: 9087px;
+  	width: 420px;
+  	height: 420px;
+}
+.group2 {
+  	position: absolute;
+  	height: 57.24%;
+  	width: 62.36%;
+  	top: 2.14%;
+  	right: 22.17%;
+  	bottom: 40.62%;
+  	left: 15.48%;
+}
+.layer-16-icon {
+  	position: absolute;
+  	height: 86.61%;
+  	width: 100%;
+  	top: 13.37%;
+  	right: 0%;
+  	bottom: 0.03%;
+  	left: 0%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.layer-3-icon {
+  	position: absolute;
+  	height: 86.27%;
+  	width: 99.92%;
+  	top: 13.46%;
+  	right: 0.04%;
+  	bottom: 0.27%;
+  	left: 0.04%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	opacity: 0.3;
+}
+.layer-8 {
+  	position: absolute;
+  	height: 33.57%;
+  	width: 31.84%;
+  	top: 49.24%;
+  	right: 36.76%;
+  	bottom: 17.19%;
+  	left: 31.4%;
+}
+.vector-icon15 {
+  	position: absolute;
+  	height: 21.69%;
+  	width: 40.53%;
+  	top: 0.2%;
+  	right: 3.16%;
+  	bottom: 78.12%;
+  	left: 56.32%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.vector-icon16 {
+  	position: absolute;
+  	height: 28.25%;
+  	width: 49.4%;
+  	top: 0%;
+  	right: -0.05%;
+  	bottom: 71.75%;
+  	left: 50.65%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.vector-icon17 {
+  	position: absolute;
+  	height: 78.81%;
+  	width: 21.22%;
+  	top: 21.09%;
+  	right: 78.78%;
+  	bottom: 0.1%;
+  	left: 0%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.layer-17-icon {
+  	position: absolute;
+  	height: 22.25%;
+  	width: 18.79%;
+  	top: 0%;
+  	right: 22.51%;
+  	bottom: 77.75%;
+  	left: 58.7%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.layer-14-icon {
+  	position: absolute;
+  	height: 18.26%;
+  	width: 16.65%;
+  	top: 29.73%;
+  	right: 33.35%;
+  	bottom: 52%;
+  	left: 50.01%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.layer-19-icon {
+  	position: absolute;
+  	height: 14.27%;
+  	width: 22.22%;
+  	top: 80.3%;
+  	right: 70.29%;
+  	bottom: 5.43%;
+  	left: 7.49%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.early-nutrition {
+  	position: absolute;
+  	top: 24px;
+  	left: 8657px;
+  	width: 420px;
+  	height: 420px;
+}
+.vector-icon18 {
+  	position: absolute;
+  	height: 55%;
+  	width: 55.05%;
+  	top: 8.81%;
+  	right: 22.57%;
+  	bottom: 36.19%;
+  	left: 22.38%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.group-icon9 {
+  	position: absolute;
+  	height: 45.24%;
+  	width: 63.57%;
+  	top: 15.11%;
+  	right: 22.62%;
+  	bottom: 39.65%;
+  	left: 13.81%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.home-early-nutrition {
+  	position: absolute;
+  	top: 289px;
+  	left: 70px;
+  	letter-spacing: 0.1px;
+  	line-height: 46px;
+  	display: inline-block;
+  	width: 280px;
+  	height: 92px;
+}
+.healthy-moms {
+  	position: absolute;
+  	top: 24px;
+  	left: 8227px;
+  	width: 420px;
+  	height: 420px;
+}
+.healthy-icon {
+  	position: absolute;
+  	height: 43.93%;
+  	width: 45.24%;
+  	top: 14.29%;
+  	right: 27.38%;
+  	bottom: 41.79%;
+  	left: 27.38%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.sec04-ill11-icon {
+  	position: absolute;
+  	top: 434px;
+  	left: 7449px;
+  	width: 385px;
+  	height: 366.9px;
+}
+.why-good-nutrition {
+  	position: absolute;
+  	height: 26.9%;
+  	width: 6.49%;
+  	top: 16.32%;
+  	left: 72.97%;
+  	font-size: 80px;
+  	letter-spacing: 0.1px;
+  	line-height: 80px;
+  	font-weight: 100;
+  	text-align: left;
+  	display: inline-block;
+}
+.greater {
+  	position: absolute;
+  	top: 606px;
+  	left: 6794px;
+  	width: 420px;
+  	height: 150px;
+}
+.greater-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #faf9f6;
+  	width: 420px;
+  	height: 150px;
+}
+.greater-resilience-in {
+  	position: absolute;
+  	top: 5px;
+  	left: 1px;
+  	letter-spacing: 0.1px;
+  	line-height: 46px;
+  	display: inline-block;
+  	width: 412px;
+  	height: 137px;
+}
+.sec04-ill10-icon {
+  	position: absolute;
+  	top: 150px;
+  	left: 6825px;
+  	width: 341.8px;
+  	height: 294.6px;
+}
+.enhanced {
+  	position: absolute;
+  	top: 606px;
+  	left: 6212px;
+  	width: 422px;
+  	height: 150px;
+}
+.enhanced-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 2px;
+  	background-color: #faf9f6;
+  	width: 420px;
+  	height: 150px;
+}
+.enhanced-immunity-from {
+  	position: absolute;
+  	top: 5px;
+  	left: 0px;
+  	letter-spacing: 0.1px;
+  	line-height: 46px;
+  	display: inline-block;
+  	width: 412px;
+  	height: 137px;
+}
+.sec04-ill09-icon {
+  	position: absolute;
+  	top: 108px;
+  	left: 6208px;
+  	width: 420px;
+  	height: 312px;
+}
+.improved {
+  	position: absolute;
+  	top: 606px;
+  	left: 5634px;
+  	width: 421px;
+  	height: 150px;
+}
+.improved-academic-outcomes {
+  	position: absolute;
+  	top: 5px;
+  	left: 9px;
+  	letter-spacing: 0.1px;
+  	line-height: 46px;
+  	display: inline-block;
+  	width: 412px;
+  	height: 137px;
+}
+.sec04-ill08-icon {
+  	position: absolute;
+  	top: 107px;
+  	left: 5630px;
+  	width: 385.7px;
+  	height: 324.9px;
+}
+.healthy {
+  	position: absolute;
+  	top: 606px;
+  	left: 5054px;
+  	width: 420px;
+  	height: 150px;
+}
+.healthy-moms-healthy {
+  	position: absolute;
+  	top: 5px;
+  	left: 38px;
+  	letter-spacing: 0.1px;
+  	line-height: 46px;
+  	display: inline-block;
+  	width: 344px;
+  	height: 137px;
+}
+.sec04-ill07-icon {
+  	position: absolute;
+  	top: 132px;
+  	left: 5054px;
+  	width: 420px;
+  	height: 309.3px;
+}
+.holanathi-01-icon {
+  	position: absolute;
+  	top: 520px;
+  	left: 4447px;
+  	width: 284.4px;
+  	height: 36.1px;
+}
+.the-impact-of {
+  	position: absolute;
+  	top: 142px;
+  	left: 4447px;
+  	font-size: 80px;
+  	letter-spacing: 0.1px;
+  	line-height: 80px;
+  	font-weight: 100;
+  	text-align: left;
+  	display: inline-block;
+  	width: 375px;
+  	height: 226px;
+}
+.div {
+  	position: absolute;
+  	top: 646px;
+  	left: 3765px;
+  	width: 420px;
+  	height: 150px;
+}
+.child {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	background-color: #faf9f6;
+}
+.of-children {
+  	position: absolute;
+  	top: 16.67%;
+  	left: 32.38%;
+}
+.span {
+  	letter-spacing: 0.1px;
+  	line-height: 46px;
+}
+.home-of-children {
+  	font-size: 24px;
+  	line-height: 32px;
+  	font-weight: 300;
+}
+.sec04-ill06-icon {
+  	position: absolute;
+  	top: 390px;
+  	left: 3831px;
+  	width: 403.4px;
+  	height: 193.4px;
+}
+.home-div {
+  	position: absolute;
+  	top: 646px;
+  	left: 3326px;
+  	width: 420px;
+  	height: 150px;
+}
+.of-children2 {
+  	position: absolute;
+  	top: 16.67%;
+  	left: 35.24%;
+}
+.sec04-ill05-icon {
+  	position: absolute;
+  	top: 198px;
+  	left: 3402px;
+  	width: 282.4px;
+  	height: 426.3px;
+}
+.div2 {
+  	position: absolute;
+  	top: 646px;
+  	left: 2890px;
+  	width: 420px;
+  	height: 150px;
+}
+.over-56-million-container {
+  	position: absolute;
+  	top: 16.67%;
+  	left: 33.1%;
+}
+.sec04-ill04-icon {
+  	position: absolute;
+  	top: 313px;
+  	left: 2980px;
+  	width: 259px;
+  	height: 302.8px;
+}
+.div3 {
+  	position: absolute;
+  	top: 645px;
+  	left: 2450px;
+  	width: 420px;
+  	height: 150px;
+}
+.of-infants {
+  	position: absolute;
+  	top: 16.67%;
+  	left: 37.14%;
+}
+.sec04-ill03-icon {
+  	position: absolute;
+  	top: 357px;
+  	left: 2545px;
+  	width: 265px;
+  	height: 267.4px;
+  	object-fit: cover;
+}
+.div4 {
+  	position: absolute;
+  	top: 645px;
+  	left: 2013px;
+  	width: 420px;
+  	height: 150px;
+}
+.of-deaths {
+  	position: absolute;
+  	top: 16.67%;
+  	left: 37.62%;
+}
+.sec04-ill02-icon {
+  	position: absolute;
+  	top: 118px;
+  	left: 2079px;
+  	width: 472.5px;
+  	height: 516.8px;
+}
+.asterix {
+  	position: absolute;
+  	top: 645px;
+  	left: 1574px;
+  	width: 420px;
+  	height: 150px;
+}
+.vector-icon20 {
+  	position: absolute;
+  	height: 60%;
+  	width: 21.43%;
+  	top: 20%;
+  	right: 77.62%;
+  	bottom: 20%;
+  	left: 0.95%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.from-one-child-container {
+  	position: absolute;
+  	top: 68px;
+  	left: 1578px;
+  	font-size: 20px;
+  	line-height: 28px;
+  	text-align: left;
+  	display: inline-block;
+  	width: 396px;
+  	height: 252px;
+  	font-family: Raleway;
+}
+.from-one-child {
+  	font-weight: 600;
+}
+.without-this-life-sustaining {
+  	font-weight: 300;
+}
+.sec04-ill01-icon {
+  	position: absolute;
+  	top: 248px;
+  	left: 865px;
+  	width: 527.2px;
+  	height: 508.6px;
+}
+.onechild-through-holanathi {
+  	position: absolute;
+  	top: 142px;
+  	left: 163px;
+  	font-size: 80px;
+  	letter-spacing: 0.1px;
+  	line-height: 80px;
+  	font-weight: 100;
+  	text-align: left;
+  	display: inline-block;
+  	width: 730px;
+  	height: 389px;
+}
+.group-wrapper {
+  	position: absolute;
+  	top: 1740px;
+  	left: 0px;
+  	width: 1441px;
+  	height: 870px;
+  	overflow-x: auto;
+  	font-size: 20px;
+}
+.s03-bg-parent {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 10080px;
+  	height: 870px;
+}
+.kids-like-unathi {
+  	position: absolute;
+  	top: 571px;
+  	left: 9005px;
+  	line-height: 28px;
+  	font-weight: 300;
+  	display: inline-block;
+  	width: 713px;
+  	height: 220px;
+}
+.s03-img08 {
+  	position: absolute;
+  	height: 58.33%;
+  	width: 14.29%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 41.67%;
+  	left: 85.71%;
+}
+.group-icon10 {
+  	position: absolute;
+  	height: 104.35%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: -4.35%;
+  	left: 0%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	object-fit: cover;
+}
+.holanathi {
+  	position: absolute;
+  	top: 560px;
+  	left: 7996px;
+  	font-size: 18px;
+  	letter-spacing: 0.1px;
+  	line-height: 20px;
+  	font-weight: 300;
+}
+.the-onechild-campaign {
+  	position: absolute;
+  	top: 283px;
+  	left: 7996px;
+  	font-size: 36px;
+  	letter-spacing: 0.1px;
+  	line-height: 46px;
+  	font-weight: 100;
+  	font-family: 'Roboto Serif';
+  	display: inline-block;
+  	width: 519px;
+  	height: 219px;
+}
+.a-life-lived {
+  	position: absolute;
+  	top: 741px;
+  	left: 7589px;
+  	font-size: 18px;
+  	letter-spacing: 0.1px;
+  	line-height: 20px;
+  	font-weight: 300;
+}
+.s03-vid02-icon {
+  	position: absolute;
+  	height: 66.67%;
+  	width: 4.17%;
+  	top: 16.67%;
+  	right: 21.71%;
+  	bottom: 16.67%;
+  	left: 74.13%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.s03-img07-icon {
+  	position: absolute;
+  	height: 66.67%;
+  	width: 7.01%;
+  	top: 16.67%;
+  	right: 25.84%;
+  	bottom: 16.67%;
+  	left: 67.15%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	object-fit: cover;
+}
+.s03-img06 {
+  	position: absolute;
+  	height: 66.67%;
+  	width: 4.25%;
+  	top: 16.67%;
+  	right: 32.85%;
+  	bottom: 16.67%;
+  	left: 62.9%;
+}
+.group-icon11 {
+  	position: absolute;
+  	height: 169.91%;
+  	width: 257.4%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	object-fit: cover;
+}
+.s03-img05 {
+  	position: absolute;
+  	height: 66.67%;
+  	width: 4.25%;
+  	top: 16.67%;
+  	right: 38.6%;
+  	bottom: 16.67%;
+  	left: 57.14%;
+}
+.group3 {
+  	position: absolute;
+  	height: 177.28%;
+  	width: 240.24%;
+  	top: -39.07%;
+  	right: -87.57%;
+  	bottom: -38.21%;
+  	left: -52.68%;
+}
+.kgs-644psd-icon {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	object-fit: contain;
+}
+.s03-img04 {
+  	position: absolute;
+  	height: 66.67%;
+  	width: 4.25%;
+  	top: 16.67%;
+  	right: 44.36%;
+  	bottom: 16.67%;
+  	left: 51.39%;
+}
+.group-icon12 {
+  	position: absolute;
+  	height: 188.72%;
+  	width: 274.56%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	object-fit: cover;
+}
+.kind-joyful-full {
+  	position: absolute;
+  	top: 461px;
+  	left: 4448px;
+  	line-height: 28px;
+  	font-weight: 300;
+  	display: inline-block;
+  	width: 377px;
+  	height: 245px;
+}
+.unathi-comes-from {
+  	position: absolute;
+  	top: 144px;
+  	left: 3168px;
+  	line-height: 28px;
+  	font-weight: 300;
+  	display: inline-block;
+  	width: 446px;
+  	height: 168px;
+}
+.unforgettable-a {
+  	position: absolute;
+  	top: 467px;
+  	left: 3972px;
+  	font-size: 18px;
+  	letter-spacing: 0.1px;
+  	line-height: 20px;
+  	font-weight: 300;
+}
+.s03-img03 {
+  	position: absolute;
+  	height: 33.33%;
+  	width: 5.71%;
+  	top: 16.55%;
+  	right: 57.15%;
+  	bottom: 50.11%;
+  	left: 37.14%;
+}
+.group-icon13 {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%; 
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	object-fit: cover;
+	background-image: url("sec02img.jpeg");
+}
+.s03-img02 {
+  	position: absolute;
+  	height: 33.33%;
+  	width: 5.71%;
+  	top: 49.89%;
+  	right: 62.86%;
+  	bottom: 16.78%;
+  	left: 31.43%;
+}
+.group-icon14 {
+  	position: absolute;
+  	height: 100vh;
+  	width: 100%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 96%;
+  	object-fit: cover;
+	background-image: url("sec02im.jpeg");
+}
+.s03-img01 {
+  	position: absolute;
+  	height: 100vh;
+  	width: 100%;
+	background-image: url("meet-unathi.jpg");
+	background-size: contain;
+	background-size: 42%;
+    background-position: left;
+}
+.group-icon15 {
+  	position: absolute;
+  	height: 187.16%;
+  	width: 128.91%;
+  	top: -40.78%;
+  	right: -12.46%;
+  	bottom: -46.38%;
+  	left: -16.46%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	object-fit: cover;
+}
+.s03-vid01-icon {
+  	position: absolute;
+  	height: 66.67%;
+  	width: 11.41%;
+  	top: 16.67%;
+  	right: 72.93%;
+  	bottom: 16.67%;
+  	left: 15.66%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.a-child-who {
+  	position: absolute;
+  	top: 256px;
+  	left: 893px;
+  	font-size: 32px;
+  	letter-spacing: 0.1px;
+  	line-height: 42px;
+  	font-weight: 300;
+  	display: inline-block;
+  	width: 417px;
+  	height: 299px;
+}
+.meet-unathi {
+  	position: absolute;
+  	top: 145px;
+  	left: 893px;
+  	font-size: 80px;
+  	letter-spacing: 0.1px;
+  	line-height: 80px;
+  	font-weight: 100;
+  	font-family: 'Roboto Serif';
+  	display: inline-block;
+  	width: 517px;
+  	height: 93px;
+}
+.s02-bg-parent {
+  	position: absolute;
+  	top: 870px;
+  	left: 47px;
+  	width: 8640px;
+  	height: 870px;
+}
+.s02-bg {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #faf9f6;
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 8640px;
+  	height: 870px;
+}
+.s02-img04 {
+  	position: absolute;
+  	top: 145.11px;
+  	left: 7200px;
+  	width: 1183.8px;
+  	height: 579.6px;
+	background-image: url("sec02img0.jpeg");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.i-am-only {
+  	position: absolute;
+  	top: 136.89px;
+  	left: 580.84px;
+  	font-size: 36px;
+  	letter-spacing: 0.1px;
+  	line-height: 46px;
+  	font-weight: 100;
+  	font-family: 'Roboto Serif';
+  	display: inline-block;
+  	width: 603px;
+  	height: 220px;
+}
+.helen-keller {
+  	position: absolute;
+  	top: 418.89px;
+  	left: 580.84px;
+  	letter-spacing: 0.1px;
+  	line-height: 20px;
+  	font-weight: 300;
+}
+.clip-path-group3 {
+  	position: absolute;
+  	height: 100%;
+  	width: 36.24%;
+  	top: 0%;
+  	right: 63.76%;
+  	bottom: 0%;
+  	left: 0%;
+}
+.group-icon16 {
+  	position: absolute;
+  	height: 120.12%;
+  	width: 111.05%;
+  	top: -12.86%;
+  	right: -1.72%;
+  	bottom: -7.26%;
+  	left: -9.33%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	object-fit: cover;
+}
+.when-one-child {
+  	position: absolute;
+  	top: 419.89px;
+  	left: 580.84px;
+  	letter-spacing: 0.1px;
+  	line-height: 20px;
+  	font-weight: 300;
+}
+.s02-img03 {
+  	position: absolute;
+  	height: 83.39%;
+  	width: 11.66%;
+  	top: 0%;
+  	right: 21.67%;
+  	bottom: 16.61%;
+  	left: 66.67%;
+}
+.group-icon17 {
+  	position: absolute;
+  	height: 110.42%;
+  	width: 138.98%;
+  	top: -11.19%;
+  	right: -16.58%;
+  	bottom: 0.77%;
+  	left: -22.39%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	object-fit: cover;
+}
+.s02-video {
+  	position: absolute;
+  	height: 54.37%;
+  	width: 9.99%;
+  	top: 16.78%;
+  	right: 34.79%;
+  	bottom: 28.85%;
+  	left: 55.22%;
+}
+.video-icon {
+  	position: absolute;
+  	height: 92.18%;
+  	width: 99.88%;
+  	top: 0%;
+  	right: 0.12%;
+  	bottom: 7.82%;
+  	left: 0%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+	background-image: url("hero-video.svg");
+	background-size: contain;
+}
+.youtube-icon {
+  	position: absolute;
+  	height: 12.68%;
+  	width: 9.64%;
+  	top: 39.53%;
+  	right: 45.28%;
+  	bottom: 47.78%;
+  	left: 45.08%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.home-when-one-child {
+  	position: absolute;
+  	top: 453px;
+  	left: 510px;
+  	letter-spacing: 0.1px;
+  	line-height: 20px;
+  	font-weight: 300;
+}
+.s02-img02 {
+  	position: absolute;
+  	top: 0px;
+  	left: 2880px;
+  	width: 1447px;
+  	height: 766px;
+}
+.not-just-one {
+  	position: absolute;
+  	top: 746px;
+  	left: 723.57px;
+  	letter-spacing: 0.1px;
+  	line-height: 20px;
+  	font-weight: 300;
+}
+.group-icon18 {
+  	position: absolute;
+  	height: 94.78%;
+  	width: 99.52%;
+  	top: 0%;
+  	right: 0.48%;
+  	bottom: 5.22%;
+  	left: 0%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	object-fit: cover;
+}
+.s02-img01 {
+  	position: absolute;
+  	top: 0px;
+  	left: 893px;
+  	width: 1987px;
+  	height: 726px;
+  	text-align: center;
+  	font-size: 24px;
+  	color: #faf9f6;
+}
+.s02-img01-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 1987px;
+  	height: 726px;
+  	object-fit: cover;
+	background-image: url(s02-img01.jpeg);
+	 
+	background-size: contain;
+}
+.the-one-child {
+  	position: absolute;
+  	top: 481px;
+  	left: 848px;
+  	letter-spacing: 0.1px;
+  	line-height: 34px;
+  	font-weight: 300;
+  	display: inline-block;
+  	width: 907px;
+  	height: 170px;
+}
+.hope-begins-with {
+  	position: absolute;
+  	top: 294px;
+  	left: 1049px;
+  	font-size: 80px;
+  	letter-spacing: 0.1px;
+  	line-height: 80px;
+  	font-weight: 300;
+  	font-family: 'Roboto Serif';
+  	display: inline-block;
+  	width: 506px;
+  	height: 154px;
+}
+.onechild-logo-icon {
+  	position: absolute;
+  	top: 40px;
+  	left: 1102px;
+  	width: 400px;
+  	height: 200px;
+	background-image: url(holonathi.png);
+    background-size: contain;
+}
+.unathis-so {
+  	position: absolute;
+  	top: 163px;
+  	left: 163px;
+  	font-size: 80px;
+  	letter-spacing: 0.1px;
+  	line-height: 80px;
+  	font-weight: 100;
+  	font-family: 'Roboto Serif';
+  	display: inline-block;
+  	width: 352px;
+  	height: 403px;
+	z-index:99;
+}
+ 
+.s01-bg {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #faf9f6;
+  	width: 1440px;
+  	height: 870px;
+}
+.one-childmany-stories {
+  	position: absolute;
+  	top: 759px;
+  	left: 365px;
+  	letter-spacing: 0.1px;
+  	line-height: 20px;
+  	font-weight: 300;
+}
+.hero-video-icon {
+  	position: absolute;
+  	top: 74px;
+  	width: 1440px;
+  	height: 650.8px;
+		background-image: url("hero-video.svg");
+	background-size: contain;
+}
+.header-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 1440px;
+  	height: 74px;
+}
+.left-bar {
+  	position: absolute;
+  	height: 85.71%;
+  	width: 4.48%;
+  	top: 0%;
+  	right: 95.52%;
+  	bottom: 14.29%;
+  	left: 0%;
+}
+.group-icon19 {
+  	position: absolute;
+  	height: 103.89%;
+  	width: 115.5%;
+  	top: -0.09%;
+  	right: -7.75%;
+  	bottom: -3.79%;
+  	left: -7.75%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	object-fit: cover;
+}
+
